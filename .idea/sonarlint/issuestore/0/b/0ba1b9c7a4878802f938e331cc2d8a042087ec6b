@@ -1,0 +1,7 @@
+
+L	java:S106"+Replace this use of System.out by a logger.(œ¿Øƒşÿÿÿÿ8ì—…œá1
+G	java:S106"+Replace this use of System.out by a logger.(´³ôÈ8ì—…œá1
+L	java:S106 "+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8èƒœá1
+L	java:S106""+Replace this use of System.out by a logger.(ÄÀ¯üÿÿÿÿ8éƒœá1
+o	java:S100&"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ü¹‡õÿÿÿÿÿ8î—…œá1
+o	java:S1002"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ö¸İÓúÿÿÿÿ8ï—…œá1
